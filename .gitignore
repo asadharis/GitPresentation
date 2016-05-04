@@ -1,3 +1,4 @@
+PRESENTATION.nav
 *.aux
 *.glo
 *.idx
@@ -21,5 +22,3 @@
 *.mtc1
 *.out
 *.synctex.gz
-test*
-*.ignore.*
