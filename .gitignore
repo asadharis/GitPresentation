@@ -1,4 +1,4 @@
-PRESENTATION.nav
+*.nav
 *.aux
 *.glo
 *.idx
@@ -22,3 +22,5 @@ PRESENTATION.nav
 *.mtc1
 *.out
 *.synctex.gz
+*.snm
+*.vrb
